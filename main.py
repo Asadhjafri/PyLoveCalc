@@ -15,3 +15,13 @@ t = lowercase_couples_string.count("t")
 r = lowercase_couples_string.count("r")
 u = lowercase_couples_string.count("u")
 e = lowercase_couples_string.count("e")
+
+true = t + r + u + e
+
+#check count for the word LOVE against couples names.
+l = lowercase_couples_string.count("l")
+o = lowercase_couples_string.count("o")
+v = lowercase_couples_string.count("v")
+e = lowercase_couples_string.count("e")
+
+love = l + o + v + e
